@@ -1,12 +1,7 @@
-#ifndef TOOL_BOX_SPLINES_HPP
-#define TOOL_BOX_SPLINES_HPP
+#ifndef SPLINES_HPP
+#define SPLINES_HPP
 
 #include <vector>
-
-// =============================================================================
-namespace tbx {
-// =============================================================================
-
 
 // =============================================================================
 namespace spline {
@@ -110,10 +105,6 @@ private:
     std::vector<Real_t>  _node;    ///< Nodal vector
 };
 
-}// END tbx NAMESPACE ==========================================================
+#include "splines.inl"
 
-#include "toolbox/maths/splines.inl"
-
-#include "toolbox/settings_end.hpp"
-
-#endif // TOOL_BOX_SPLINES_HPP
+#endif // SPLINES_HPP
