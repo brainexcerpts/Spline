@@ -1,11 +1,7 @@
-#include "toolbox/maths/splines.hpp"
+#include "splines.hpp"
 
 #include <cassert>
 #include <algorithm>
-
-// =============================================================================
-namespace tbx {
-// =============================================================================
 
 template<typename Point_t, typename Real_t>
 Spline<Point_t, Real_t>::Spline(
@@ -194,5 +190,3 @@ eval_rec(Real_t u,
 
     return eval_rec(u, p_out, (k - 1), node_out);
 }
-
-}// END tbx NAMESPACE ==========================================================
