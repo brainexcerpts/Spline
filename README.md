@@ -4,3 +4,5 @@ The class can be instanciated with any point type (1d (float), 2d, 3d etc.)
 as long as the appropriate operator overload are implemented.
  
 This class use the efficient blossom algorithm to compute a position on the curve.
+
+(MIT-license)
