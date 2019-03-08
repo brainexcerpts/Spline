@@ -10,4 +10,4 @@ This class use the efficient blossom algorithm to compute a position on the curv
 
 (MIT-license)
 
-<a href="https://www.buymeacoffee.com/jBnA3c2Fw" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/purple_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: 90% !important;" ></a>
+<a href="https://www.buymeacoffee.com/jBnA3c2Fw" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/purple_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: 75% !important;" ></a>
