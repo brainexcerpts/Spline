@@ -1,0 +1,21 @@
+*.user
+*.svn
+*.fbx
+*.a
+*.o
+*.autosave
+*.swp
+*.deps
+*.suo
+*.sdf
+*.pdb
+*.pyc
+*.mll
+*.ilk
+*.log
+
+__pycache__/
+build/
+
+*.vcxproj eol=crlf
+*.vcxproj.filters eol=crlf
